@@ -1,4 +1,4 @@
-# Comunidad H/F Maracay
+# Comunidad Hackers/Founders Maracay
 
 Documentación y lineamientos de la comunidad H/F Maracay
 
