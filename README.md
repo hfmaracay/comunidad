@@ -4,11 +4,11 @@ Documentación y lineamientos de la comunidad H/F Maracay
 
 ## Tabla de contenidos
 
-- [¿Qué es H/F Maracay?](#qué-es-h/f-maracay)
-- [Cultura de H/F](#cultura-de-h/f)
+- [¿Qué es H/F Maracay?](#qué-es-hf-maracay)
+- [Cultura de H/F](#cultura-de-hf)
 - [Nuestro Enfoque](#nuestro-enfoque)
-- [¿A quiénes busca H/F?](#a-quiénes-busca-h/f)
-- [¿Qué hacemos en H/F?](#qué-hacemos-en-h/f)
+- [¿A quiénes busca H/F?](#a-quiénes-busca-hf)
+- [¿Qué hacemos en H/F?](#qué-hacemos-en-hf)
 - [Miembros](#miembros)
 - [Medios de Contacto](#medios-de-contacto)
 
@@ -18,7 +18,7 @@ Hackers/Founders [H/F] es la comunidad tecnológica más grande del mundo, con m
 
 **Somos una comunidad donde todos pueden sentirse bienvenidos.**
 
-En febrero de 2016 nace **el capítulo Maracay de Hackers/Founders [H/F Maracay]**, siendo el primer capítulo creado en nuestro país. Sus fundadores [Rafael Hernández (rafaelje)](https://github.com/rafaelje) y [Héctor Rondón ()](https://github.com/), posicionaron de esta manera a Venezuela dentro de esta comunidad global.
+En febrero de 2016 nace **el capítulo Maracay de Hackers/Founders [H/F Maracay]**, siendo el primer capítulo creado en nuestro país. Sus fundadores [Rafael Hernández (rafaelje)](https://github.com/rafaelje) y [Héctor Rondón (hectorerb)](https://github.com/hectorerb), posicionaron de esta manera a Venezuela dentro de esta comunidad global.
 
 Nuestros meetups son reuniones de panas, donde conversamos de temas tecnológicos y de emprendimiento junto a algunas cervezas, para mantener la tradición de los fundadores originales, pero al mejor estilo venezolano; estas reuniones son realizadas una vez al mes, cada segundo jueves a partir de las 5:00pm.
 
@@ -28,21 +28,21 @@ Hackers/Founders fue iniciada por fundadores para fundadores y nosotros tomamos 
 
 Lo que sigue son **las Cuatro Reglas de Hackers/Founders**:
 
-- Regla 1: _No seas idiota._
+- Regla 1: *No seas idiota.*
 
-Significa que debes mantener tu imagen por tu bien y el de la comunidad, la idea es resaltar tu presencia en positivo, trata bien a tus semejantes, sé parte de la solución y no del problema.
+  Significa que debes mantener tu imagen por tu bien y el de la comunidad, la idea es resaltar tu presencia en positivo, trata bien a tus semejantes, sé parte de la solución y no del problema.
 
-- Regla 2: _Haz lo correcto para tu comunidad._
+- Regla 2: *Haz lo correcto para tu comunidad.*
 
-Haz propuestas, colabora para que la comunidad sea cada vez más grande y fuerte.
+  Haz propuestas, colabora para que la comunidad sea cada vez más grande y fuerte.
 
-- Regla 3: _Si vas a usar la marca de H/F, POR FAVOR no lo arruines._
+- Regla 3: *Si vas a usar la marca de H/F, POR FAVOR no lo arruines.*
 
-Si usas el nombre de la comunidad, hazlo bien, dale fuerza, cumple tu palabra y ten ética, sino no lo uses.
+  Si usas el nombre de la comunidad, hazlo bien, dale fuerza, cumple tu palabra y ten ética, sino no lo uses.
 
-- Regla 4: _Dinos lo que necesita tu comunidad._
+- Regla 4: *Dinos lo que necesita tu comunidad.*
 
-No hay malas ideas, hay malas ejecuciones. Si crees que puedes ayudar para mejorar algo, dilo y hazlo. Se parte de la solución, no critiques solamente.
+  No hay malas ideas, hay malas ejecuciones. Si crees que puedes ayudar para mejorar algo, dilo y hazlo. Se parte de la solución, no critiques solamente.
 
 ## Nuestro enfoque
 
@@ -70,8 +70,7 @@ Ayudamos a que el emprendimiento duela menos. Dinos qué necesitas y estaremos e
 ## Medios de Contacto
 
 - Teléfono: (0424) 317.21.26
-- Email: [hfmaracay@gmail.com](mailto:hfmaracay@gmail.com
-)
+- Email: <hfmaracay@gmail.com>
 - Sitio Web: [hfmaracay.com](https://hfmaracay.com)
 - Facebook: [/HFMaracay](https://facebook.com/hfmaracay)
 - Twitter: [@HFMaracay](https://twitter.com/hfmaracay)
