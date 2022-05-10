@@ -27,8 +27,6 @@ H/F prefers a once-a-month minimum, although some chapters choose to meet more f
 
 If this is not possible for you, please don’t let 4 months pass by between each event.
 
-Alexa Clark regularly contacts organizers. Please discuss your progress with her.
-
 - How long does it take me to organize the meetup?
 
 During the first meetups it is likely that the organization will take you 8-10 hours a month plus the event itself. But as your expertise increases, this can take 5 to 6 hours per month.
@@ -89,5 +87,3 @@ We are working on facilitating access to sponsorships for all of our global orga
 Please refrain from using the Hackers / Founders brand in partnerships with your own ventures.
 
 You may have your company sponsor your H / F events though and share personal stories, the purpose is to encourage, inspire and ducation, not to run through a sales pitch.
-
-For further information, please do not hesitate to contact Alexa Clark at Alexa@hf.cx
